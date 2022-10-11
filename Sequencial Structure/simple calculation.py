@@ -1,0 +1,6 @@
+num1 = int(input('Put a integer number : '))
+num2 = int(input('Put a integer number : '))
+floatnum = float(input('Put a real number : '))
+print(f'the product of twice the first and half of the second is: {(num1*2)*(num2/2)}')
+print(f'the sum of the triple of the first and the third is : {(num1*3)+floatnum}')
+print(f'the third cubed is : {(floatnum*floatnum*floatnum)}')
